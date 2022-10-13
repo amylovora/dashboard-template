@@ -1,0 +1,9 @@
+python=3.9
+numpy=1.21.*
+streamlit
+datetime
+numpy
+pandas
+plotly
+statistics
+time
